@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Chatra_Live_Chat",
+    "type": "magento-module",
+    "license": "GNU-GPLv2",
+    "homepage": "",
+    "description": "Chat with your website visitors, increase sales and collect feedback.",
+    "authors": [
+    {
+        "name": "Chatra",
+        "email": "info@eraga.net"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
